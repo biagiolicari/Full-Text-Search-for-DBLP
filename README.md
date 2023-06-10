@@ -42,7 +42,7 @@ If the syntax is not followed correctly, the program will default to searching i
 	```
 * To limit the search results to the top 10:
 	```
-	ESEMPIO : article.author:"Montressor" -10
+	article.author:"Montressor" -10
 	```
 	
 - Note: The available ranking options are '-vector' and '-fuzzy'.
